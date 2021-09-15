@@ -1,0 +1,58 @@
+{
+  "productdetails": [
+    {
+      "id": 1,
+      "productname": "iphone",
+      "productdescription": "it is a smartphone",
+      "price": "85000"
+    },
+    {
+      "id": 2,
+      "productname": "oneplustv",
+      "productdescription": "smart android tv",
+      "price": 20000
+    },
+    {
+      "id": 3,
+      "productname": "mi band",
+      "productdescription": "fitness band",
+      "price": "2220"
+    },
+    {
+      "id": 5,
+      "productname": "realme narzo",
+      "productdescription": "budget smartphone",
+      "price": "9550"
+    },
+    {
+      "id": 6,
+      "productname": "samsung fold 3",
+      "productdescription": "foldable phone v3",
+      "price": "145000"
+    },
+    {
+      "id": 7,
+      "productname": "Moto Edge fusion",
+      "productdescription": "5g smartphone",
+      "price": "31000"
+    },
+    {
+      "id": 8,
+      "productname": "iphone 12 ",
+      "productdescription": "latest iphone apple",
+      "price": "125000"
+    },
+    {
+      "id": 9,
+      "productname": "Oneplus Nord 2",
+      "productdescription": "Budget oneplus phone",
+      "price": "28000"
+    },
+    {
+      "id": 10,
+      "productname": "Redmi note 10",
+      "productdescription": "Midrange smartphone",
+      "price": "15500"
+    }
+  ]
+}

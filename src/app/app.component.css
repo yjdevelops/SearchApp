@@ -1,0 +1,23 @@
+.navb {
+    color: white;
+}
+.navb:hover {
+    color:yellow;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    border: 1px solid;
+    background-color: midnightblue;
+    color: white;
+    margin: 20px;
+    width: 410px;
+    padding: 11px;
+    text-align: center;
+    margin-left: 310px;
+
+}
