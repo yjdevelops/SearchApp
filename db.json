@@ -4,7 +4,7 @@
       "id": 1,
       "productname": "iphone",
       "productdescription": "it is a smartphone",
-      "price": "85000"
+      "price": "85500"
     },
     {
       "id": 2,
@@ -20,9 +20,9 @@
     },
     {
       "id": 5,
-      "productname": "realme narzo",
+      "productname": "realme narzo 30",
       "productdescription": "budget smartphone",
-      "price": "9550"
+      "price": "9555"
     },
     {
       "id": 6,
