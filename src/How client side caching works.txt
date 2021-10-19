@@ -1,0 +1,12 @@
+How Client Side Caching Works ?
+In our Proj the http interceptor captures all requests to the server
+
+In 1st request interceptor will save data from GET request in client side application storage
+
+Application storage is a temporary storage used for storing small amount of data on client browser
+
+if we request that same page again we will cached response and request not will hit server
+
+In case we modify the data then interceptor will remove that cache and request the server for data changes
+
+this is the flow of client side caching in angular
